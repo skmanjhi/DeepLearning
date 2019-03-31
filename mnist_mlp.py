@@ -2,9 +2,6 @@
 """
 Created on Sun Mar 24 15:59:18 2019
 @author: Sachin Kumar Manjhi
-Assignment 2 Solution 
-Deep Learning Course 
-IISC Bangalore
 Building a DNN and CNN for MNIST Dataset
 """
 
