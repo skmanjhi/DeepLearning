@@ -1,6 +1,5 @@
 #!/usr/bin/python
-# This code was developed using https://medium.com/@the1ju/simple-logistic-regression-using-keras-249e0cc9a970
-# Build the model of a logistic classifier
+# Build the model of a logistic classifier using Keras
 #import os
 #import gzip
 #import six.moves.cPickle as pickle
