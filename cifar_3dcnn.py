@@ -2,12 +2,9 @@
 """
 Created on Sun Mar 24 18:46:37 2019
 @author: Sachin Kumar Manjhi
+Building multiple CNN for CIFAR Dataset
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. 
 There are 50000 training images and 10000 test images.
-Assignment 2 Solution 
-Deep Learning Course 
-IISC Bangalore
-Building multiple CNN for CIFAR Dataset
 """
 
 from __future__ import print_function
